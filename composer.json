@@ -1,14 +1,17 @@
 {
-    "name": "shibl/mvc",
+    "name": "xeno-php/xeno-php",
     "autoload": {
         "psr-4": {
-            "Shibl\\Mvc\\": "app/"
-        }
+            "App\\": "app/"
+        },
+        "files":[
+            "app/Helper.php"
+        ]
     },
     "authors": [
         {
-            "name": "Shibli Raihan",
-            "email": "shibli.raihan.bangli@gmail.com"
+            "name": "AjayYadavAi",
+            "email": "ajayyadavexpo@gmail.com"
         }
     ],
     "require": {}
