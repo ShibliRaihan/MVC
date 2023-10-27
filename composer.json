@@ -1,0 +1,15 @@
+{
+    "name": "shibl/mvc",
+    "autoload": {
+        "psr-4": {
+            "Shibl\\Mvc\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shibli Raihan",
+            "email": "shibli.raihan.bangli@gmail.com"
+        }
+    ],
+    "require": {}
+}
